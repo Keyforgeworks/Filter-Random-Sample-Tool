@@ -2,7 +2,7 @@
 
 ## Description
 
-PowerShell tool that provides functionality for filtering and randomly sampling data. It allows users to efficiently filter datasets based on specified criteria and then extract a random subset of the filtered results. This tool is designed to streamline data analysis tasks by providing a convenient way to isolate specific data and create representative samples for further investigation. The refactored "open file" button functionality enhances the user experience.
+PowerShell tool that provides filtering and random sampling data. Efficiently filter datasets based on specified criteria and then extract a random subset of the filtered results. This tool is designed to streamline data analysis tasks by providing a convenient way to isolate specific data and create representative samples for further investigation. The refactored "open file" button functionality enhances the user experience.
 
 ## Features
 
